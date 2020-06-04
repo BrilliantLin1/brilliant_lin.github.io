@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## My First Git Page
 
 You can use the [editor on GitHub](http://www.linvlog.team/myindex/index.html) to maintain and preview the content for your website in Markdown files.
 
