@@ -4,7 +4,7 @@ You can use the [editor on GitHub](http://www.linvlog.team/myindex/index.html) t
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-you can access to [百度](www.baidu.com)
+you can access to [百度](www.baidu.com)  哈哈
 
 
 
